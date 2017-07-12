@@ -1,2 +1,1 @@
-# bomb1e.github.io
-githinji.space
+(githinji.space)[http://githinji.space]

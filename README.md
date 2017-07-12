@@ -1,1 +1,1 @@
-(githinji.space)[http://githinji.space]
+[githinji.space](http://githinji.space)
